@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "teste",
+        "preco": 12.0,
+        "quantidade": 34
+    },
+    {
+        "nome": "mesa",
+        "preco": 122.0,
+        "quantidade": 45
+    },
+    {
+        "nome": "cadeira",
+        "preco": 17.0,
+        "quantidade": 45
+    }
+]
