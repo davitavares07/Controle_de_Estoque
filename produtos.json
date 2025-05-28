@@ -1,17 +1,22 @@
 [
     {
+        "nome": "videos",
+        "preco": 23.0,
+        "quantidade": 11
+    },
+    {
+        "nome": "oi",
+        "preco": 55.0,
+        "quantidade": 54
+    },
+    {
+        "nome": "jantar",
+        "preco": 15.0,
+        "quantidade": 25
+    },
+    {
         "nome": "teste",
-        "preco": 12.0,
-        "quantidade": 34
-    },
-    {
-        "nome": "mesa",
-        "preco": 122.0,
-        "quantidade": 45
-    },
-    {
-        "nome": "cadeira",
-        "preco": 17.0,
-        "quantidade": 45
+        "preco": 25.0,
+        "quantidade": 12
     }
 ]
